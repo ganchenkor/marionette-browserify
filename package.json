@@ -2,7 +2,7 @@
   "name": "marionette-browserify",
   "version": "0.0.1",
   "description": "Module to use in requirebin.com",
-  "main": "bundle.js",
+  "main": "main.js",
   "author": "Roman Ganchenko",
   "license": "MIT",
   "dependencies": {
