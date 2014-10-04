@@ -5,6 +5,11 @@
   "main": "main.js",
   "author": "Roman Ganchenko",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganchenkor/marionette-browserify.git"
+  },
+  "github": "https://github.com/ganchenkor/marionette-browserify",
   "dependencies": {
     "backbone": "^1.1.2",
     "jquery": "^2.1.1",
@@ -13,3 +18,4 @@
     "lodash": "^2.4.1"
   }
 }
+
