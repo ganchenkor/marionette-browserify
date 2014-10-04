@@ -1,0 +1,21 @@
+{
+  "name": "marionette-browserify",
+  "version": "0.0.1",
+  "description": "Module to use in requirebin.com",
+  "main": "bundle.js",
+  "scripts": {
+    "install": "browserify main.js -o bundle.js"
+  },
+  "author": "Roman Ganchenko",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^5.11.0"
+  },
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "jquery": "^2.1.1",
+    "backbone.marionette": "^2.2.0",
+    "backbone.radio": "^0.7.0",
+    "lodash": "^2.4.1"
+  }
+}
